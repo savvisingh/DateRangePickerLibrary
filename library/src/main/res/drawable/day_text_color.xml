@@ -8,7 +8,7 @@
     <item android:color="@color/dateTimeRangePickerStateNonSelectable" app:tsquare_state_highlighted = "true" />
   <item android:color="@color/dateTimeRangePickerStateNonSelectable" app:tsquare_state_unavailable = "true" app:tsquare_state_today="false"/>
   <item android:color="@color/dateTimeRangePickerStateNonSelectable" app:tsquare_state_unavailable = "true" app:tsquare_state_today="true" />
-  <item android:color="@color/dateTimeRangePickerStateDefault" app:tsquare_state_deactivated="true" />
+  <item android:color="@color/dateTimeRangePickerRangeTextColorInactive" app:tsquare_state_deactivated="true" app:tsquare_state_today="false" android:state_selected="false"/>
 
 
   <item android:color="@color/dateTimeRangePickerStateDefault" />

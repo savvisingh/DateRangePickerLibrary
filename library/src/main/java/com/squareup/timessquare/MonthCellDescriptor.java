@@ -112,6 +112,8 @@ class MonthCellDescriptor {
         + isHighlighted
         + ", rangeState="
         + rangeState
-        + '}';
+        + "isDeactivated="
+        + isDeactivated
+            + '}';
   }
 }

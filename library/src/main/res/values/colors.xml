@@ -10,7 +10,7 @@
   <color name="calendar_text_inactive">#ffffff</color>
   <color name="calendar_text_active">#212121</color>
   <color name="calendar_text_selected">#ffffff</color>
-  <color name="calendar_text_unselectable">#7ffefeff</color>
+  <color name="calendar_text_unselected">#7ffefeff</color>
   <color name="calendar_text_highlighted">#f5f5f5</color>
   <color name="colorAccent">#ffcf40</color>
   <color name="color_red">#ef5350</color>
